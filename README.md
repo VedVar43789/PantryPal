@@ -25,7 +25,7 @@ It uses **pretrained image recognition models** to detect ingredients and **fuzz
 | Component | Technology |
 |------------|-------------|
 | **Frontend/UI** | Streamlit |
-| **Image Recognition** | PyTorch (MobileNetV2 fine-tuned), OpenCV for image preprocessing |
+| **Image Recognition** | PyTorch (EfficientNetB0 fine-tuned) |
 | **Matching Logic** | Python, pandas, difflib, scikit-learn |
 | **Nutrition API** | USDA FoodData Central API |
 | **Deployment** | Streamlit Cloud / Heroku |
