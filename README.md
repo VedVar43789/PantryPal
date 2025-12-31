@@ -1,5 +1,5 @@
 # 🥕 PantryPal  
-### *Your Smart Recipe Recommender Based on What’s in Your Kitchen!*  
+### *Your Smart Recipe Recommender Based on What’s in Your Kitchen!* 
 
 PantryPal is a web platform that suggests recipes based on the ingredients you already have — whether you **type them in** or **upload a photo** of your pantry.  
 It uses **pretrained image recognition models** to detect ingredients and **fuzzy matching algorithms** to recommend the most relevant recipes, complete with **nutrition info** and **dietary filters**.
